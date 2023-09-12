@@ -11,7 +11,13 @@ Name and link to related publication (if relevant)
 
 - **Excess mortality**: % difference of deaths with the average for the
   same month between 2016 and 2019
-- **p.c**; per capita
+- **p.c**: per capita
+
+#### Changed
+
+this is a change
+
+    ## [1] 4
 
 #### Measurment
 
