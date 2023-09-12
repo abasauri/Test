@@ -1,7 +1,7 @@
 TEST
 ================
 **AUTHOR (Unit/Team)**
-\[Last updated on 04 Sep 2023\]
+\[Last updated on 12 Sep 2023\]
 
 THIS IS A TEST!
 
@@ -79,10 +79,6 @@ NACE
 </table>
 
 #### Coverage
-
-``` r
-kable(coverage)
-```
 
 <table>
 <thead>
@@ -162,10 +158,6 @@ Ages 15-65
 </table>
 
 #### Sources
-
-``` r
-kable(sources)
-```
 
 <table>
 <thead>
